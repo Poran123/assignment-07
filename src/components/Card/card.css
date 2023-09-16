@@ -1,0 +1,16 @@
+.card{
+    width: 300px;
+    height: 400px;
+    border-radius: 12px;
+    background: #f3ecec;;
+}
+h4{
+    color: black;
+}
+.blue{
+    color: #2F80ED;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+}
